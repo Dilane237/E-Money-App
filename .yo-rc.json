@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "emoney",
+    "packageName": "eu.worldvoice.emoney",
+    "packageFolder": "eu/worldvoice/emoney",
+    "serverPort": 8182,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "rememberMeKey": "16a92bd258250d5e2e7bff236b86e8002c63e7fe66d3037be959935c4830ccbb8b099acfdb43adeed6a07110072204396744",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Dilane237",
+  "repository-name": "E-Money-App"
+}
